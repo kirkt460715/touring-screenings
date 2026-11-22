@@ -1,0 +1,374 @@
+{
+  "places": {
+    "description": "场地与能力",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "region": {
+        "type": "string",
+        "description": "地区"
+      },
+      "accessible": {
+        "type": "boolean",
+        "description": "是否有无障碍设备"
+      },
+      "capacity": {
+        "type": "number",
+        "description": "座位"
+      }
+    }
+  },
+  "people": {
+    "description": "合成居民事前属性",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "home": {
+        "type": "string",
+        "description": "常住场地",
+        "ref": "places"
+      },
+      "club": {
+        "type": "string",
+        "description": "事前登记社团"
+      },
+      "prior_facts": {
+        "type": "array",
+        "description": "此前已获得的内容事实"
+      },
+      "needs_access": {
+        "type": "boolean",
+        "description": "需要无障碍"
+      }
+    }
+  },
+  "contents": {
+    "description": "连续放映内容",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "facts": {
+        "type": "array",
+        "description": "包含事实"
+      },
+      "requires": {
+        "type": "array",
+        "description": "必要前情事实"
+      },
+      "version": {
+        "type": "string",
+        "description": "版本"
+      }
+    }
+  },
+  "shows": {
+    "description": "真实历史场次和取消",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "place": {
+        "type": "string",
+        "description": "场地",
+        "ref": "places"
+      },
+      "content": {
+        "type": "string",
+        "description": "内容",
+        "ref": "contents"
+      },
+      "start": {
+        "type": "string",
+        "description": "开始"
+      },
+      "end": {
+        "type": "string",
+        "description": "结束"
+      },
+      "status": {
+        "type": "string",
+        "description": "held 或 cancelled"
+      },
+      "known_at": {
+        "type": "string",
+        "description": "可知"
+      }
+    }
+  },
+  "invitations": {
+    "description": "群体邀请及送达",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "person": {
+        "type": "string",
+        "description": "居民",
+        "ref": "people"
+      },
+      "show": {
+        "type": "string",
+        "description": "场次",
+        "ref": "shows"
+      },
+      "assigned_at": {
+        "type": "string",
+        "description": "分配日"
+      },
+      "delivered_at": {
+        "type": "string",
+        "description": "送达日，空为无回执"
+      },
+      "registered": {
+        "type": "boolean",
+        "description": "是否报名"
+      },
+      "group": {
+        "type": "string",
+        "description": "经由社团"
+      },
+      "known_at": {
+        "type": "string",
+        "description": "可知"
+      }
+    }
+  },
+  "attendance": {
+    "description": "实际出席区间长度",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "person": {
+        "type": "string",
+        "description": "居民",
+        "ref": "people"
+      },
+      "show": {
+        "type": "string",
+        "description": "场次",
+        "ref": "shows"
+      },
+      "minutes": {
+        "type": "number",
+        "description": "观看分钟，完整内容需100分钟"
+      },
+      "known_at": {
+        "type": "string",
+        "description": "可知"
+      }
+    }
+  },
+  "followups": {
+    "description": "包含未参加者的计划抽访",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "person": {
+        "type": "string",
+        "description": "居民",
+        "ref": "people"
+      },
+      "show": {
+        "type": "string",
+        "description": "被访问场次",
+        "ref": "shows"
+      },
+      "at": {
+        "type": "string",
+        "description": "抽访日"
+      },
+      "sample_probability": {
+        "type": "number",
+        "description": "入选概率"
+      },
+      "understood": {
+        "type": "boolean",
+        "description": "理解，null 未访到"
+      },
+      "known_at": {
+        "type": "string",
+        "description": "可知"
+      }
+    }
+  },
+  "travel": {
+    "description": "场地间实际交通",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "origin": {
+        "type": "string",
+        "description": "出发",
+        "ref": "places"
+      },
+      "destination": {
+        "type": "string",
+        "description": "到达",
+        "ref": "places"
+      },
+      "minutes": {
+        "type": "number",
+        "description": "路程分钟"
+      }
+    }
+  },
+  "permissions": {
+    "description": "地区内容许可",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "content": {
+        "type": "string",
+        "description": "内容",
+        "ref": "contents"
+      },
+      "region": {
+        "type": "string",
+        "description": "地区"
+      },
+      "start": {
+        "type": "string",
+        "description": "开始"
+      },
+      "end": {
+        "type": "string",
+        "description": "结束"
+      }
+    }
+  },
+  "invite_terms": {
+    "description": "已确认的邀请保障",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "person": {
+        "type": "string",
+        "description": "居民",
+        "ref": "people"
+      },
+      "show": {
+        "type": "string",
+        "description": "原场",
+        "ref": "shows"
+      },
+      "required_contents": {
+        "type": "array",
+        "description": "所需内容",
+        "ref": "contents"
+      },
+      "max_travel_minutes": {
+        "type": "number",
+        "description": "替代最大到达时间"
+      },
+      "reserved": {
+        "type": "number",
+        "description": "保留席位"
+      },
+      "at": {
+        "type": "string",
+        "description": "确认日"
+      }
+    }
+  },
+  "tour_resources": {
+    "description": "未来流动资源窗口",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "resource": {
+        "type": "string",
+        "description": "设备或讲解人员"
+      },
+      "place": {
+        "type": "string",
+        "description": "当前地点",
+        "ref": "places"
+      },
+      "start": {
+        "type": "string",
+        "description": "可用开始"
+      },
+      "end": {
+        "type": "string",
+        "description": "可用结束"
+      },
+      "accessible": {
+        "type": "boolean",
+        "description": "能提供无障碍"
+      }
+    }
+  },
+  "club_corrections": {
+    "description": "事后补回社团关系",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "people": {
+        "type": "array",
+        "description": "成员",
+        "ref": "people"
+      },
+      "club": {
+        "type": "string",
+        "description": "共同社团"
+      },
+      "effective_at": {
+        "type": "string",
+        "description": "关系实际成立"
+      },
+      "known_at": {
+        "type": "string",
+        "description": "资料到达"
+      }
+    }
+  },
+  "observation_plan": {
+    "description": "预登记观察期与可比地",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "该表内稳定记录编号"
+      },
+      "wave": {
+        "type": "number",
+        "description": "波次"
+      },
+      "invited_places": {
+        "type": "array",
+        "description": "安排地区",
+        "ref": "places"
+      },
+      "comparison_places": {
+        "type": "array",
+        "description": "比较地区",
+        "ref": "places"
+      },
+      "known_at": {
+        "type": "string",
+        "description": "预登记"
+      }
+    }
+  }
+}

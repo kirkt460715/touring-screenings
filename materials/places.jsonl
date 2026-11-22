@@ -1,0 +1,8 @@
+{"id": "p0", "region": "区0", "accessible": true, "capacity": 30}
+{"id": "p1", "region": "区0", "accessible": false, "capacity": 35}
+{"id": "p2", "region": "区1", "accessible": false, "capacity": 40}
+{"id": "p3", "region": "区1", "accessible": true, "capacity": 45}
+{"id": "p4", "region": "区2", "accessible": false, "capacity": 50}
+{"id": "p5", "region": "区2", "accessible": false, "capacity": 55}
+{"id": "p6", "region": "区3", "accessible": true, "capacity": 60}
+{"id": "p7", "region": "区3", "accessible": false, "capacity": 65}

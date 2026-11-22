@@ -1,0 +1,6 @@
+{"id": "plan0", "wave": 0, "invited_places": ["p0", "p2", "p4"], "comparison_places": ["p1", "p3", "p5"], "known_at": "2025-01-13T00:00:00Z"}
+{"id": "plan1", "wave": 1, "invited_places": ["p0", "p2", "p4"], "comparison_places": ["p1", "p3", "p5"], "known_at": "2025-01-30T00:00:00Z"}
+{"id": "plan2", "wave": 2, "invited_places": ["p0", "p2", "p4"], "comparison_places": ["p1", "p3", "p5"], "known_at": "2025-02-16T00:00:00Z"}
+{"id": "plan3", "wave": 3, "invited_places": ["p0", "p2", "p4"], "comparison_places": ["p1", "p3", "p5"], "known_at": "2025-03-05T00:00:00Z"}
+{"id": "plan4", "wave": 4, "invited_places": ["p0", "p2", "p4"], "comparison_places": ["p1", "p3", "p5"], "known_at": "2025-03-22T00:00:00Z"}
+{"id": "plan5", "wave": 5, "invited_places": ["p0", "p2", "p4"], "comparison_places": ["p1", "p3", "p5"], "known_at": "2025-04-08T00:00:00Z"}

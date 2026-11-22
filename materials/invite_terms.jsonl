@@ -1,0 +1,5 @@
+{"id": "term0", "person": "u0", "show": "s5-0", "required_contents": ["c0", "c1"], "max_travel_minutes": 70, "reserved": 1, "at": "2025-04-06T00:00:00Z"}
+{"id": "term8", "person": "u8", "show": "s5-0", "required_contents": ["c0", "c1"], "max_travel_minutes": 70, "reserved": 1, "at": "2025-04-06T00:00:00Z"}
+{"id": "term16", "person": "u16", "show": "s5-0", "required_contents": ["c0", "c1"], "max_travel_minutes": 70, "reserved": 1, "at": "2025-04-06T00:00:00Z"}
+{"id": "term24", "person": "u24", "show": "s5-0", "required_contents": ["c0", "c1"], "max_travel_minutes": 70, "reserved": 1, "at": "2025-04-06T00:00:00Z"}
+{"id": "term56", "person": "u56", "show": "s5-0", "required_contents": ["c0", "c1"], "max_travel_minutes": 70, "reserved": 1, "at": "2025-04-06T00:00:00Z"}

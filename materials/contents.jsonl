@@ -1,0 +1,3 @@
+{"id": "c0", "facts": ["f0", "f1"], "requires": [], "version": "精编甲"}
+{"id": "c1", "facts": ["f2", "f3"], "requires": ["f1"], "version": "精编甲"}
+{"id": "c2", "facts": ["f0", "f1", "f2", "f3"], "requires": [], "version": "合辑乙"}
