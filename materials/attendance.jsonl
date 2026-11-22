@@ -3,7 +3,6 @@
 {"id": "a0-2", "person": "u0", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a0-3", "person": "u0", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a0-4", "person": "u0", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a0-5", "person": "u0", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a1-0", "person": "u1", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a1-1", "person": "u1", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a1-2", "person": "u1", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -51,7 +50,6 @@
 {"id": "a8-2", "person": "u8", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a8-3", "person": "u8", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a8-4", "person": "u8", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a8-5", "person": "u8", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a9-0", "person": "u9", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a9-1", "person": "u9", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a9-2", "person": "u9", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -99,7 +97,6 @@
 {"id": "a16-2", "person": "u16", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a16-3", "person": "u16", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a16-4", "person": "u16", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a16-5", "person": "u16", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a17-0", "person": "u17", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a17-1", "person": "u17", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a17-2", "person": "u17", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -147,7 +144,6 @@
 {"id": "a24-2", "person": "u24", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a24-3", "person": "u24", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a24-4", "person": "u24", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a24-5", "person": "u24", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a25-0", "person": "u25", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a25-1", "person": "u25", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a25-2", "person": "u25", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -195,7 +191,6 @@
 {"id": "a32-2", "person": "u32", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a32-3", "person": "u32", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a32-4", "person": "u32", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a32-5", "person": "u32", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a33-0", "person": "u33", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a33-1", "person": "u33", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a33-2", "person": "u33", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -243,7 +238,6 @@
 {"id": "a40-2", "person": "u40", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a40-3", "person": "u40", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a40-4", "person": "u40", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a40-5", "person": "u40", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a41-0", "person": "u41", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a41-1", "person": "u41", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a41-2", "person": "u41", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -291,7 +285,6 @@
 {"id": "a48-2", "person": "u48", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a48-3", "person": "u48", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a48-4", "person": "u48", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a48-5", "person": "u48", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a49-0", "person": "u49", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a49-1", "person": "u49", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a49-2", "person": "u49", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -339,7 +332,6 @@
 {"id": "a56-2", "person": "u56", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a56-3", "person": "u56", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a56-4", "person": "u56", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a56-5", "person": "u56", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a57-0", "person": "u57", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a57-1", "person": "u57", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a57-2", "person": "u57", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -387,7 +379,6 @@
 {"id": "a64-2", "person": "u64", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a64-3", "person": "u64", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a64-4", "person": "u64", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a64-5", "person": "u64", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a65-0", "person": "u65", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a65-1", "person": "u65", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a65-2", "person": "u65", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -435,7 +426,6 @@
 {"id": "a72-2", "person": "u72", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a72-3", "person": "u72", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a72-4", "person": "u72", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a72-5", "person": "u72", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a73-0", "person": "u73", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a73-1", "person": "u73", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a73-2", "person": "u73", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -483,7 +473,6 @@
 {"id": "a80-2", "person": "u80", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a80-3", "person": "u80", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a80-4", "person": "u80", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a80-5", "person": "u80", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a81-0", "person": "u81", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a81-1", "person": "u81", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a81-2", "person": "u81", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -531,7 +520,6 @@
 {"id": "a88-2", "person": "u88", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a88-3", "person": "u88", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a88-4", "person": "u88", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a88-5", "person": "u88", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a89-0", "person": "u89", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a89-1", "person": "u89", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a89-2", "person": "u89", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -579,7 +567,6 @@
 {"id": "a96-2", "person": "u96", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a96-3", "person": "u96", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a96-4", "person": "u96", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a96-5", "person": "u96", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a97-0", "person": "u97", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a97-1", "person": "u97", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a97-2", "person": "u97", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -627,7 +614,6 @@
 {"id": "a104-2", "person": "u104", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a104-3", "person": "u104", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a104-4", "person": "u104", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a104-5", "person": "u104", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a105-0", "person": "u105", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a105-1", "person": "u105", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a105-2", "person": "u105", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -675,7 +661,6 @@
 {"id": "a112-2", "person": "u112", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a112-3", "person": "u112", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a112-4", "person": "u112", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a112-5", "person": "u112", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a113-0", "person": "u113", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a113-1", "person": "u113", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a113-2", "person": "u113", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -723,7 +708,6 @@
 {"id": "a120-2", "person": "u120", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a120-3", "person": "u120", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a120-4", "person": "u120", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a120-5", "person": "u120", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a121-0", "person": "u121", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a121-1", "person": "u121", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a121-2", "person": "u121", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -771,7 +755,6 @@
 {"id": "a128-2", "person": "u128", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a128-3", "person": "u128", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a128-4", "person": "u128", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a128-5", "person": "u128", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a129-0", "person": "u129", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a129-1", "person": "u129", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a129-2", "person": "u129", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -819,7 +802,6 @@
 {"id": "a136-2", "person": "u136", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a136-3", "person": "u136", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a136-4", "person": "u136", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a136-5", "person": "u136", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a137-0", "person": "u137", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a137-1", "person": "u137", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a137-2", "person": "u137", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -867,7 +849,6 @@
 {"id": "a144-2", "person": "u144", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a144-3", "person": "u144", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a144-4", "person": "u144", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a144-5", "person": "u144", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a145-0", "person": "u145", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a145-1", "person": "u145", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a145-2", "person": "u145", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
@@ -915,7 +896,6 @@
 {"id": "a152-2", "person": "u152", "show": "s2-0", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
 {"id": "a152-3", "person": "u152", "show": "s3-0", "minutes": 110, "known_at": "2025-03-17T00:00:00Z"}
 {"id": "a152-4", "person": "u152", "show": "s4-0", "minutes": 20, "known_at": "2025-04-03T00:00:00Z"}
-{"id": "a152-5", "person": "u152", "show": "s5-0", "minutes": 110, "known_at": "2025-04-20T00:00:00Z"}
 {"id": "a153-0", "person": "u153", "show": "s0-1", "minutes": 110, "known_at": "2025-01-25T00:00:00Z"}
 {"id": "a153-1", "person": "u153", "show": "s1-1", "minutes": 110, "known_at": "2025-02-11T00:00:00Z"}
 {"id": "a153-2", "person": "u153", "show": "s2-1", "minutes": 110, "known_at": "2025-02-28T00:00:00Z"}
